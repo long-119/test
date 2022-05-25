@@ -1,0 +1,4 @@
+﻿  demo2.c
+E:\Visual Studio_C\Project2\demo2.c(1,1): warning C4005: “_CRT_SECURE_NO_WARNINGS”: 宏重定义
+E:\Visual Studio_C\Project2\demo2.c : message : 参见“_CRT_SECURE_NO_WARNINGS”的前一个定义
+  Project2.vcxproj -> E:\Visual Studio_C\Project2\Debug\Project2.exe
